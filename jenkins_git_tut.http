@@ -1,0 +1,6 @@
+@jenkins_git_tut_HostAddress = http://localhost:5271
+
+GET {{jenkins_git_tut_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
